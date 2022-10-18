@@ -1,0 +1,6 @@
+payCloud	--支付程序
+softwdt		--android工控机软件看门狗
+vembox		--android工控机售货机程序
+VEMCloud	--售货机管理平台
+VEMServer	--售货机通信程序
+vemcloud	--mysql数据库
